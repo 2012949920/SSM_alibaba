@@ -1,0 +1,16 @@
+0:0:0:0:0:0:0:1 - - [16/Aug/2019:01:44:15 +0800] "GET /SSM_alibaba_web/product/findAll.do HTTP/1.1" 200 22030 http-bio-8080-exec-1 1050
+0:0:0:0:0:0:0:1 - - [16/Aug/2019:01:46:51 +0800] "GET /SSM_alibaba_web/pages/main.jsp HTTP/1.1" 200 13389 http-bio-8080-exec-5 71
+0:0:0:0:0:0:0:1 - - [16/Aug/2019:01:46:51 +0800] "GET /SSM_alibaba_web/img/center.jpg HTTP/1.1" 404 1011 http-bio-8080-exec-7 0
+0:0:0:0:0:0:0:1 - - [16/Aug/2019:01:47:51 +0800] "GET /SSM_alibaba_web/product/findAll.do HTTP/1.1" 200 22030 http-bio-8080-exec-9 20
+0:0:0:0:0:0:0:1 - - [16/Aug/2019:01:47:52 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-9 0
+0:0:0:0:0:0:0:1 - - [16/Aug/2019:01:48:09 +0800] "GET /SSM_alibaba_web/pages/main.jsp HTTP/1.1" 200 13389 http-bio-8080-exec-9 4
+0:0:0:0:0:0:0:1 - - [16/Aug/2019:01:48:09 +0800] "GET /SSM_alibaba_web/img/center.jpg HTTP/1.1" 404 1011 http-bio-8080-exec-9 0
+0:0:0:0:0:0:0:1 - - [16/Aug/2019:01:48:28 +0800] "GET /SSM_alibaba_web/product/findAll.do HTTP/1.1" 200 22030 http-bio-8080-exec-9 8
+0:0:0:0:0:0:0:1 - - [16/Aug/2019:01:49:34 +0800] "GET /SSM_alibaba_web/pages/main.jsp HTTP/1.1" 200 13389 http-bio-8080-exec-8 4
+0:0:0:0:0:0:0:1 - - [16/Aug/2019:01:49:34 +0800] "GET /SSM_alibaba_web/img/center.jpg HTTP/1.1" 200 221181 http-bio-8080-exec-8 0
+0:0:0:0:0:0:0:1 - - [16/Aug/2019:01:51:46 +0800] "GET /SSM_alibaba_web/ HTTP/1.1" 200 13389 http-bio-8080-exec-3 39
+0:0:0:0:0:0:0:1 - - [16/Aug/2019:01:51:49 +0800] "GET /SSM_alibaba_web/ HTTP/1.1" 200 13389 http-bio-8080-exec-3 3
+0:0:0:0:0:0:0:1 - - [16/Aug/2019:01:51:52 +0800] "GET /SSM_alibaba_web/ HTTP/1.1" 200 13389 http-bio-8080-exec-3 4
+0:0:0:0:0:0:0:1 - - [16/Aug/2019:01:51:52 +0800] "GET /SSM_alibaba_web/ HTTP/1.1" 200 13389 http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [16/Aug/2019:01:51:52 +0800] "GET /SSM_alibaba_web/ HTTP/1.1" 200 13389 http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [16/Aug/2019:01:52:10 +0800] "GET /SSM_alibaba_web/product/findAll.do HTTP/1.1" 200 22030 http-bio-8080-exec-3 4
